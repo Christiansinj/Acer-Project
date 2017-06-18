@@ -1,0 +1,16 @@
+body{
+margin: 0;
+}
+/*header*/
+#header{
+background-color: white;
+padding: 35px 28px ;
+display: flex;
+justify-content: space-around;
+}
+
+a{
+font-family: Verdana, sans-serif;
+text-decoration: none;
+color:  grey;
+}
