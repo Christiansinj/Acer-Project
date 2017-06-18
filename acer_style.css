@@ -8,9 +8,12 @@ padding: 35px 28px ;
 display: flex;
 justify-content: space-around;
 }
-
+/*section1*/
 a{
 font-family: Verdana, sans-serif;
 text-decoration: none;
 color:  grey;
+}
+#section{
+background-position:100% 100%;
 }
